@@ -1,3 +1,10 @@
+# Infos relatives aux diférents cours
+
+- Cours où il faut signer la feuille de présence
+
+-- PCO
+-- SER
+
 # Calendrier HEIG-VD 2019 Sem 4
 
 ## 17 Mars 2019 :
@@ -42,11 +49,19 @@
 
 - TE de `RES`
 
+## 16 Avril 2019
+
+- TE1 de `SRX`
+
+## 17 Avril 2019
+
+- TE1 `SLO`
+
 ## 18 Avril 2019
 
 - TE1 de `PCO`
 
-#3 19 Avril 2019
+## 19 Avril 2019
 
 - rendre labo2 `PCO`
 
@@ -54,7 +69,11 @@
 
 - TE2 de `PCO`
 
+## 5 Juin 2019
+
+- TE2 de `SLO`
 
 
+## 11 Juin 2019
 
-
+- TE2 de `SRX`
