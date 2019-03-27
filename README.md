@@ -1,8 +1,8 @@
 # Infos relatives aux diférents cours
 
-* Cours où il faut signer la feuille de présence
- - PCO
- - SER
+1. Cours où il faut signer la feuille de présence
+    1. PCO
+    2. SER
 
 # Calendrier HEIG-VD 2019 Sem 4
 
