@@ -5,7 +5,10 @@
     2. SER
 
 2. Tests et exams pour lesquels nous avons le droit à des notes/au cours : 
+    1. SRX
+    2. SLO
 
+    
 # Calendrier HEIG-VD 2019 Sem 4
 
 ## 17 Mars 2019 :
