@@ -67,7 +67,7 @@
 
 ## 19 Avril 2019
 
-- rendre labo2 `PCO`
+- rendre labo4 `PCO`
 
 ## 23 Mai 2019
 
