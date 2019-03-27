@@ -22,20 +22,20 @@
 
 ## 31 Mars 2019
 
-- rendre labo `SRX`
-- finir labo `RES`
+- rendre labo1 `SRX`
+- finir labo3 `RES`
 
 ## 10 avril 2019
 
-- rendre labo `SLO` 
+- rendre labo2 `SLO` 
 
 ## 11 Avril 2019
 
-- rendre labo `ADS`
+- rendre labo4 `ADS`
 
 ## 14 Avril 2019
 
-- rendre labo `SER`
+- rendre labo2 `SER`
 
 
 ## 15 Avril 2019 
@@ -45,6 +45,10 @@
 ## 18 Avril 2019
 
 - TE1 de `PCO`
+
+#3 19 Avril 2019
+
+- rendre labo2 `PCO`
 
 ## 23 Mai 2019
 
