@@ -2,23 +2,23 @@
 
 ## 17 Mars 2019 :
 
-- rendre Labo 2 `RES`
+- ~~Rendre Labo 2 `RES`~~
 
 ## 20 Mars 2019 :
 
-- TE de labo `SLO`
+- ~~TE de labo `SLO`~~
 
 ## 22 Mars 2019 
 
-- rendre labo 3 `PCO`
+- ~~rendre labo 3 `PCO`~~
 
 ## 24 Mars 2019 
 
-- rendre exercice `SER`
+- ~~rendre exercice `SER`~~
 
 ## 28 Mars 2019
 
-- rendre labo `GEN`
+- ~~rendre labo `GEN`~~
 
 ## 31 Mars 2019
 
