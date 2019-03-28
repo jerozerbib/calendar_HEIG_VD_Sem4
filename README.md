@@ -36,6 +36,10 @@
 - rendre labo1 `SRX`
 - finir labo3 `RES`
 
+## 4 Avril 2019
+
+- TE1 de SLO
+
 ## 10 avril 2019
 
 - rendre labo2 `SLO` 
