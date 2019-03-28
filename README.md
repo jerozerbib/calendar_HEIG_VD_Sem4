@@ -63,7 +63,7 @@
 
 ## 18 Avril 2019
 
-- TE1 de `PCO`
+- TE1 de `PCO` : Tout jusqu'au sémaphores
 
 ## 19 Avril 2019
 
