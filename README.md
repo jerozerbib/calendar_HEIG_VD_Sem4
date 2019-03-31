@@ -33,8 +33,8 @@
 
 ## 31 Mars 2019
 
-- rendre labo1 `SRX`
-- finir labo3 `RES`
+- ~~Rendre labo1 `SRX`~~
+- ~~finir labo3 `RES`~~
 
 ## 4 Avril 2019
 
