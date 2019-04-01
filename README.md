@@ -65,7 +65,7 @@
 ## 15 Avril 2019 
 
 - TE de `RES` : Tout jusqu'â `SMTP`
-- Avoir fini le labo sur `SMTP`; Des groupes au hasard peuvent être choisis si le temps le permet
+- Avoir fini le labo sur `SMTP`; **Remplir le formulaire !!!**; Des groupes au hasard peuvent être choisis si le temps le permet
 
 ## 16 Avril 2019
 
