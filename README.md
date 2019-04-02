@@ -60,7 +60,7 @@
 ## 14 Avril 2019
 
 - rendre labo2 `SER`
-
+- rendre labo2 `SRX` avant 23h
 
 ## 15 Avril 2019 
 
