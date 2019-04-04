@@ -39,15 +39,6 @@
 ## 4 Avril 2019
 
 - ~~TE1 de SOS : Champ :~~ 
-    - ~~iptables~~
-    - ~~ACL~~
-    - ~~droits unix traditionels~~
-    - ~~Docker run + montage ~~
-    - ~~explicquer Cgroups VS Namespace~~
-    - ~~SUDO savoir donner des privilèges~~
-    - ~~Systemd gestion de service~~
-    - ~~LUKS savoir chiffrer et le rendre persistant~~
-    - ~~POSIX Capability net_raw~~
 
 ## 10 avril 2019
 
