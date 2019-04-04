@@ -38,7 +38,7 @@
 
 ## 4 Avril 2019
 
-- TE1 de SOS : Champ : 
+- ~~TE1 de SOS : Champ : 
     - iptables
     - ACL
     - droits unix traditionels
@@ -47,7 +47,7 @@
     - SUDO savoir donner des privilèges
     - Systemd gestion de service
     - LUKS savoir chiffrer et le rendre persistant
-    - POSIX Capability net_raw
+    - POSIX Capability net_raw~~
 
 ## 10 avril 2019
 
@@ -73,7 +73,7 @@
 
 ## 17 Avril 2019
 
-- TE1 `SLO`
+- TE1 `SLO` : Tout jusqu'à la fin du reverse
 
 ## 18 Avril 2019
 
