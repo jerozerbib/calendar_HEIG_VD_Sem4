@@ -38,7 +38,7 @@
 
 ## 4 Avril 2019
 
-- ~~TE1 de SOS : Champ :~~ 
+- ~~TE1 de SOS~~ 
 
 ## 10 avril 2019
 
