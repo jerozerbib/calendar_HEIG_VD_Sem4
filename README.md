@@ -40,6 +40,10 @@
 
 - ~~TE1 de SOS~~ 
 
+## 7 avril 2019
+
+- rendre exercice de `SER` à 23h59
+
 ## 10 avril 2019
 
 - rendre labo2 `SLO` 
@@ -69,6 +73,7 @@
 ## 18 Avril 2019
 
 - TE1 de `PCO` : Tout jusqu'au sémaphores
+- `SOS` rendre le labo avant 17h ! 
 
 ## 19 Avril 2019
 
