@@ -42,7 +42,7 @@
 
 ## 7 avril 2019
 
-- rendre exercice de `SER` à 23h59
+- ~~rendre exercice de `SER` à 23h59~~
 
 ## 10 avril 2019
 
