@@ -50,7 +50,7 @@
 
 ## 11 Avril 2019
 
-- rendre labo4 `ADS`
+- ~~rendre labo4 `ADS`~~
 
 ## 14 Avril 2019
 
@@ -59,7 +59,6 @@
 
 ## 15 Avril 2019 
 
-- TE de `RES` : Tout jusqu'â `SMTP`
 - Avoir fini le labo sur `SMTP`; **Remplir le formulaire !!!**; Des groupes au hasard peuvent être choisis si le temps le permet
 
 ## 16 Avril 2019
@@ -74,10 +73,19 @@
 
 - TE1 de `PCO` : Tout jusqu'au sémaphores
 - `SOS` rendre le labo avant 17h ! 
+- Rendre labo 5 de `ADS`
 
 ## 19 Avril 2019
 
 - rendre labo4 `PCO`
+
+## 29 Avril 2019
+
+- TE de `RES` : Tout jusqu'â `SMTP`
+
+## 2 Mai 2019
+
+- Rendre labo3 de `GEN`
 
 ## 23 Mai 2019
 
