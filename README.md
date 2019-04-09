@@ -46,7 +46,7 @@
 
 ## 10 avril 2019
 
-- rendre labo2 `SLO` 
+- ~~rendre labo2 `SLO`~~ 
 
 ## 11 Avril 2019
 
@@ -55,7 +55,7 @@
 ## 14 Avril 2019
 
 - rendre labo2 `SER`
-- rendre labo2 `SRX` avant 23h
+- ~~rendre labo2 `SRX` avant 23h~~
 
 ## 15 Avril 2019 
 
