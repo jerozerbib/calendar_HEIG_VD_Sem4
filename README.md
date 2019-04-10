@@ -1,7 +1,7 @@
 # Infos relatives aux diférents cours
 
 1. Cours où il faut signer la feuille de présence :
-    1. PC
+    1. PCO
     2. SER
 
 2. Tests et exams pour lesquels nous avons le droit à des notes/au cours : 
