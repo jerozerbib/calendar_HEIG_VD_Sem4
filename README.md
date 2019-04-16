@@ -54,16 +54,16 @@
 
 ## 14 Avril 2019
 
-- rendre labo2 `SER`
+- ~~rendre labo2 `SER`~~
 - ~~rendre labo2 `SRX` avant 23h~~
 
 ## 15 Avril 2019 
 
-- Avoir fini le labo sur `SMTP`; **Remplir le formulaire !!!**; Des groupes au hasard peuvent être choisis si le temps le permet
+- ~~Avoir fini le labo sur `SMTP`; **Remplir le formulaire !!!**; Des groupes au hasard peuvent être choisis si le temps le permet~~
 
 ## 16 Avril 2019
 
-- TE1 de `SRX` : Tout depuis le début jusqu'à Firewall(IDS et IPS compris)
+- ~~TE1 de `SRX` : Tout depuis le début jusqu'à Firewall(IDS et IPS compris)~~
 
 ## 17 Avril 2019
 
@@ -71,13 +71,17 @@
 
 ## 18 Avril 2019
 
-- TE1 de `PCO` : Tout jusqu'au sémaphores
-- `SOS` rendre le labo avant 17h ! 
-- Rendre labo 5 de `ADS`
+- TE1 de `PCO` : Tout jusqu'aux producteurs et consommateurs
+- ~~`SOS` rendre le labo avant 17h !~~ 
+- ~~Rendre labo 5 de `ADS`~~
 
 ## 19 Avril 2019
 
 - rendre labo4 `PCO`
+
+## 21 Avril 2019
+
+- rendre devoir de `SER`
 
 ## 29 Avril 2019
 
