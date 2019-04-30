@@ -77,15 +77,15 @@
 
 ## 19 Avril 2019
 
-- rendre labo4 `PCO`
+- ~~rendre labo4 `PCO`~~
 
 ## 21 Avril 2019
 
-- rendre devoir de `SER`
+- ~~rendre devoir de `SER`~~
 
 ## 29 Avril 2019
 
-- TE de `RES` : Tout jusqu'â `SMTP`
+- ~~TE de `RES` : Tout jusqu'â `SMTP`~~
 
 ## 2 Mai 2019
 
@@ -97,7 +97,7 @@
 
 ## 9 mai 2019
 
-- rendre labo6 de `ADS`
+- ~~rendre labo6 de `ADS`~~
 
 ## 23 Mai 2019
 
