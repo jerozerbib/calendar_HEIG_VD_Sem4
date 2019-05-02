@@ -99,6 +99,10 @@
 
 - ~~rendre labo6 de `ADS`~~
 
+## 16 mai 2019
+
+- rendre labo de SOS avant **13h** !!!
+
 ## 23 Mai 2019
 
 - TE2 de `PCO`
