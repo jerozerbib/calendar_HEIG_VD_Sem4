@@ -7,9 +7,51 @@
 2. Tests et exams pour lesquels nous avons le droit à des notes/au cours : 
     1. SRX
     2. SLO
+    3. ADS matériel fourni
 
     
 # Calendrier HEIG-VD 2019 Sem 4
+
+## 5 Mai 2019
+
+- Rendre labo3 de `GEN`
+
+## 7 Mai 2019
+
+- TE1 `ADS`
+
+## 9 Mai 2019
+
+- ~~rendre labo6 de `ADS`~~
+
+## 13 Mai 2019
+
+- rendre labo *DockerOrchestra* `RES`
+
+## 16 mai 2019
+
+- rendre labo de `SOS` avant **13h** !!!
+
+## 19 Mai 2019
+
+- rendre labo de `GEN` 4.
+- rendre labo de `SER` 3.
+
+## 23 Mai 2019
+
+- TE2 de `PCO`
+
+## 5 Juin 2019
+
+- TE2 de `SLO`
+
+
+## 11 Juin 2019
+
+- TE2 de `SRX`
+
+
+# Past deadlines
 
 ## 17 Mars 2019 :
 
@@ -87,31 +129,5 @@
 
 - ~~TE de `RES` : Tout jusqu'â `SMTP`~~
 
-## 2 Mai 2019
-
-- Rendre labo3 de `GEN`
-
-## 7 Mai 2019
-
-- TE1 `ADS`
-
-## 9 mai 2019
-
-- ~~rendre labo6 de `ADS`~~
-
-## 16 mai 2019
-
-- rendre labo de SOS avant **13h** !!!
-
-## 23 Mai 2019
-
-- TE2 de `PCO`
-
-## 5 Juin 2019
-
-- TE2 de `SLO`
 
 
-## 11 Juin 2019
-
-- TE2 de `SRX`
