@@ -12,25 +12,10 @@
     
 # Calendrier HEIG-VD 2019 Sem 4
 
-## 5 Mai 2019
-
-- Rendre labo3 de `GEN`
-
-## 7 Mai 2019
-
-- TE1 `ADS`
-
-## 9 Mai 2019
-
-- ~~rendre labo6 de `ADS`~~
-
-## 13 Mai 2019
-
-- rendre labo *DockerOrchestra* `RES`
-
 ## 16 mai 2019
 
 - rendre labo de `SOS` avant **13h** !!!
+- rendre labo de `PCO` avant 23h59
 
 ## 19 Mai 2019
 
@@ -40,6 +25,11 @@
 ## 23 Mai 2019
 
 - TE2 de `PCO`
+- Rendre labo 07 de `ADS` à 23h59
+
+## 26 Mai 2019
+
+- Rendre labo 3 de `SLO`
 
 ## 5 Juin 2019
 
@@ -128,6 +118,22 @@
 ## 29 Avril 2019
 
 - ~~TE de `RES` : Tout jusqu'â `SMTP`~~
+
+## 5 Mai 2019
+
+- ~~Rendre labo3 de `GEN`~~
+
+## 7 Mai 2019
+
+- ~~TE1 `ADS`~~
+
+## 9 Mai 2019
+
+- ~~rendre labo6 de `ADS`~~
+
+## 13 Mai 2019
+
+- ~~rendre labo *DockerOrchestra* `RES`~~
 
 
 
