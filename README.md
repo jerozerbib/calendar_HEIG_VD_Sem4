@@ -24,6 +24,7 @@
 
 ## 23 Mai 2019
 
+- TE de `SOS`
 - TE2 de `PCO`
 - Rendre labo 07 de `ADS` à 23h59
 - Rendre labo de `GEN`
