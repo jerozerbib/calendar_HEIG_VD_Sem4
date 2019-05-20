@@ -38,6 +38,10 @@
 - TE2 de `SLO`
 
 
+## 10 Juin 2019
+
+- Finir le labo de `RES` HTTP infra à 23h00
+
 ## 11 Juin 2019
 
 - TE2 de `SRX`
