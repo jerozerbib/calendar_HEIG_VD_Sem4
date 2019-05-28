@@ -12,31 +12,26 @@
     
 # Calendrier HEIG-VD 2019 Sem 4
 
-## 16 mai 2019
+## 29 Mai 2019
 
-- rendre labo de `SOS` avant **13h** !!!
-- rendre labo de `PCO` avant 23h59
+- Rendre labo 3 de `SLO` à 23h59
 
-## 19 Mai 2019
+## 30 Mai 2019
 
-- rendre labo de `GEN` 4.
-- rendre labo de `SER` 3.
+- Rendre labo 5 partie 2 de `PCO` à 23h59
 
-## 23 Mai 2019
+## 2 Juin 2019
 
-- TE de `SOS`
-- TE2 de `PCO`
-- Rendre labo 07 de `ADS` à 23h59
-- Rendre labo de `GEN`
+- TE2 de `S
 
-## 26 Mai 2019
 
-- Rendre labo 3 de `SLO`
+## 4 Juin 2019
+
+- Rendre labo `ADS` à 13h15
 
 ## 5 Juin 2019
 
 - TE2 de `SLO`
-
 
 ## 10 Juin 2019
 
@@ -46,6 +41,9 @@
 
 - TE2 de `SRX`
 
+## 16 Juin 2019
+
+- rendre labo de `GEN` à 23h59
 
 # Past deadlines
 
@@ -140,6 +138,23 @@
 ## 13 Mai 2019
 
 - ~~rendre labo *DockerOrchestra* `RES`~~
+
+## 16 mai 2019
+
+- ~~rendre labo de `SOS` avant **13h** !!!~~
+- ~~rendre labo de `PCO` avant 23h59~~
+
+## 19 Mai 2019
+
+- ~~rendre labo de `GEN` 4.~~
+- ~~rendre labo de `SER` 3.~~
+
+## 23 Mai 2019
+
+- ~~TE de `SOS`~~
+- ~~TE2 de `PCO`~~
+- ~~Rendre labo 07 de `ADS` à 23h59~~
+- ~~Rendre labo de `GEN`~~
 
 
 
