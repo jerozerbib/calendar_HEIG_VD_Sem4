@@ -12,26 +12,23 @@
     
 # Calendrier HEIG-VD 2019 Sem 4
 
-## 29 Mai 2019
+## 3 Juin 2019
 
-- Rendre labo 3 de `SLO` à 23h59
-
-## 30 Mai 2019
-
-- Rendre labo 5 partie 2 de `PCO` à 23h59
-
-## 2 Juin 2019
-
-- TE2 de `S
+- TE2 de `SER`
 
 
 ## 4 Juin 2019
 
 - Rendre labo `ADS` à 13h15
+- TE2 `ADS`
 
 ## 5 Juin 2019
 
 - TE2 de `SLO`
+
+## 6 Juin 2019
+
+- Rendre labo 5 partie 2 de `PCO` à 23h59
 
 ## 10 Juin 2019
 
@@ -156,5 +153,7 @@
 - ~~Rendre labo 07 de `ADS` à 23h59~~
 - ~~Rendre labo de `GEN`~~
 
+## 29 Mai 2019
 
+- ~~Rendre labo 3 de `SLO` à 23h59~~
 
