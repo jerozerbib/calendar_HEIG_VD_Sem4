@@ -12,35 +12,19 @@
     
 # Calendrier HEIG-VD 2019 Sem 4
 
-## 3 Juin 2019
+## 12 Juin 2019
 
-- TE2 de `SER`
+- TE de labo `SLO``
 
+## 13 Juin 2019
 
-## 4 Juin 2019
-
-- Rendre labo `ADS` à 13h15
-- TE2 `ADS`
-
-## 5 Juin 2019
-
-- TE2 de `SLO`
-
-## 6 Juin 2019
-
-- Rendre labo 5 partie 2 de `PCO` à 23h59
-
-## 10 Juin 2019
-
-- Finir le labo de `RES` HTTP infra à 23h00
-
-## 11 Juin 2019
-
-- TE2 de `SRX`
+- rendre le portflio de `GEN` avant 8h00
+- Rendre le labo `SOS` avant 16h30
 
 ## 16 Juin 2019
 
 - rendre labo de `GEN` à 23h59
+- Rendre le labo de `SER` avant 23h59
 
 # Past deadlines
 
@@ -156,4 +140,31 @@
 ## 29 Mai 2019
 
 - ~~Rendre labo 3 de `SLO` à 23h59~~
+
+## 3 Juin 2019
+
+- ~~TE2 de `SER`~~
+
+## 4 Juin 2019
+
+- ~~Rendre labo `ADS` à 13h15~~
+- ~~TE2 `ADS`~~
+
+## 5 Juin 2019
+
+- ~~TE2 de `SLO`~~
+
+## 6 Juin 2019
+
+- ~~Rendre labo 5 partie 2 de `PCO` à 23h59~~
+
+## 10 Juin 2019
+
+- ~~Finir le labo de `RES` HTTP infra à 23h00~~
+
+## 11 Juin 2019
+
+- ~~TE2 de `SRX`~~
+
+
 
